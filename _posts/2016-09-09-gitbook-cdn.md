@@ -2,7 +2,7 @@
 layout: post
 title:  "Lightning fast hosting with free HTTPS for all"
 date:   2016-09-12 10:00:00
-categories: features
+categories: [features, featured]
 author: aaronomullan
 ---
 
