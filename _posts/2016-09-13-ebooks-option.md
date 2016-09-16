@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Disable e-books to focus on your web documentation E-Books"
+title:  "Disable e-books to focus on your web documentation"
 date:   2016-09-16 12:00:00
 categories: features
 author: jpreynat
