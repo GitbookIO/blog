@@ -10,7 +10,7 @@ Our GitHub integration is now ready for large teams!
 
 <!-- more -->
 
-Wether you are an individual or a team of 50 members, editing a GitHub hosted documentation should be as easy as opening the GitBook Editor.
+Whether you are an individual or a team of 50 members, editing a GitHub hosted documentation should be as easy as opening the GitBook Editor.
 
 This is why we are releasing our new GitHub integration today. We truly believe that new features like seamless editing of your GitHub content for team members and the per-repository based permissions will keep your team efficient and focused on what's important: editing.
 
@@ -46,4 +46,4 @@ Support for editing your GitHub books without upgrading will be maintained until
 
 For all your questions about installing and using our new GitHub integration, the GitHub section of our [Help Center](https://help.gitbook.com) has been updated.
 
-Wether you would like to [setup our GitHub integration from scratch](https://help.gitbook.com/github/can-i-host-on-github.html) or [cannot find a GitHub repository](https://help.gitbook.com/github/why-is-my-repository-not-listed.html), the answer is here.
+Whether you would like to [setup our GitHub integration from scratch](https://help.gitbook.com/github/can-i-host-on-github.html) or [cannot find a GitHub repository](https://help.gitbook.com/github/why-is-my-repository-not-listed.html), the answer is here.
