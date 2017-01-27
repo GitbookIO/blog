@@ -2,7 +2,7 @@
 layout: post
 title: "Improved GitHub integration"
 date: 2017-01-27 12:00:00
-categories: releases
+categories: [releases, featured]
 author: jpreynat
 ---
 
